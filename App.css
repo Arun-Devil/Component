@@ -1,0 +1,14 @@
+*{
+  font-family: 'Montserrat','sans-serif';
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-image: url('C:\Users\Dominic Toretto\Desktop\myreact-app\myapp-react\React-Navbar\starter_nav\src\Components\Assets\back img.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: repeat;
+  width: 100vw;
+  height: 100vh;
+}
